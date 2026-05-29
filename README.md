@@ -1,5 +1,6 @@
 # Flatpack
 
+![alt text](flatpack_main.png "Logo Title Text 1")
   A typeface designed after a long wander through an IKEA store. The flatpack
   shelves, sectioned wardrobes, and angled chair legs hiding an alphabet in
   plain sight.
